@@ -20,7 +20,9 @@ class MainClass
   {
     int x;
     int y;
-    int b;    
+    int b; 
+
+    Console.WriteLine("Lab 7 Section 2");
 
     Console.WriteLine("Enter a base value: ");
     x = Convert.ToInt32(Console.ReadLine());
